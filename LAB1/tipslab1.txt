@@ -1,0 +1,6 @@
+Como ejecutar ek archivo ,eml
+
+15> cd("C:/Users/Jessy/Escritorio/Maestria/Cuarto Semestre/PROTS/LAB1").
+c:/Users/Jessy/Escritorio/Maestria/Cuarto Semestre/PROTS/LAB1
+ok
+16> c(fib).
